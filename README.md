@@ -82,5 +82,15 @@
 ## In progress:
 
 1. Add support for mappings with indexed query expressions
-
 2. Provide search capability for filtering input, output fields
+
+## Feature Backlog:
+
+1. Auto update the function signature to include error return when required
+2. Provide in-place record editing capability
+3. Add support for table types
+4. Improve the overall UX to be consistent with project-architecture view and the graphql views
+5. Add support for keyboard shortcuts
+6. Provide support for changing the mapped attributes without deleting the links
+7. Improve UX for handling open records or var typed let variables in Data Mapper
+8. Add support to extract expressions to local variables
